@@ -14,9 +14,13 @@
 	font-size:50px;
 	background-color:#f58142;
 }
-p{
-	
-	
+.img1X{
+	height:200px;
+	width:200px;
+	margin:200px;
+}
+.img1X:hover{
+	transform:scale(1.7);
 }
 h2{
 	font-size:40px;
